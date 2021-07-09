@@ -1,0 +1,160 @@
+alias:
+A short, easy to remember name created for use in place of a longer, more complicated name; commonly used in e-mail applications. Also referred to as a "nickname". 
+
+
+The Filesystem Hierarchy Standard (FHS) defines the directory structure and contents in Linux distributions. This standard is maintained by the Linux Foundation. For more information on FHS, see the following section "Filesystem Hierarchy Standard" 
+
+
+
+Local Area Networks (LANs) 
+
+
+captcha:
+A challenge-response test in the form of an image of distorted text the user must enter that to determine whether the user is human or an automated bot.
+
+
+CMS:
+'Content Management System' i
+
+
+
+cookie:
+A small piece of information you may be asked to accept when connecting to certain servers via a web browser. It is used throughout your session as a means of identifying you. A cookie is specific to, and sent only to the server that generated it. 
+
+
+
+DHCP:
+Dynamic Host Configuration Protocol; a protocol that lets a server on a local network assign temporary IP addresses to a computer or other network devices
+
+
+
+DNS:
+Domain Name System; a service for accessing a networked computer by name rather than by numerical, (IP) address.
+
+
+dpi:
+Dots per inch; a measure of a printer's resolution. The higher the number, the better the print quality. A minimum of 300 dpi usually is required for professional quality printing. 
+
+
+drag and drop:
+The act of clicking on one icon and moving it on top of another icon to initiate a specific action. Example: Dragging a file on top of a folder to copy it to a new location. 
+
+
+
+encryption:
+The manipulation of data to prevent accurate interpretation by all but those for whom the data is intended. 
+
+
+
+firewall:
+A method of preventing unauthorized access to or from a particular network; firewalls can be implemented in both hardware and software, or both
+
+
+
+FTP:
+File Transfer Protocol; a method of exchanging files between computers via the Internet. A program like WS_FTP for IBM PC or compatibles or Fetch for Macintosh is required. Files can contain documents or programs and can be ASCII text or binary data. 
+
+
+
+GIF:
+Graphics Interchange Format; a format for a file that contains a graphic or a picture. Files of this type usually have the suffix ".gif" as part of their name. Many images seen on web pages are GIF files.
+
+
+
+handshaking:
+The initial negotiation period immediately after a connection is established between two modems. This is when the modems agree about how the data will be transmitted (e.g., error correction, packet size, etc.). The set of rules they agree on is called the protocol. 
+
+
+
+HTTP:
+HyperText Transfer Protocol; a set of instructions that defines how a web server and a browser should interact. Example: When you open a location (e.g., enter a URL) in your browser, what actually happens is an HTTP command is sent to the web server directing it to fetch and return the requested web page. 
+
+
+
+ISP:
+Internet Service Provider; an organization or company that provides Internet connectivity.
+
+
+
+learning management system (LMS):
+Software used for developing, using, and storing course content of all types. Information within a learning management system often takes the form of learning objects (see "learning object" below).
+
+
+
+PDF:
+Portable Document Format; a type of formatting that enables files to be viewed on a variety computers regardless of the program originally used to create them. PDF files retain the "look and feel" of the original document with special formatting, graphics, and color intact. You use a special program or print driver (Adobe Distiller or PDF Writer) to convert a file into PDF format. 
+
+
+PGP:
+Pretty good privacy; a technique for encrypting e-mail messages. PGP uses a public key to give to anyone who sends you messages and a private key you keep to decrypt messages you receive. 
+
+
+
+protocol:
+A set of rules that regulate how computers exchange information. Example: error checking for file transfers or POP for handling electronic mail.
+
+
+
+proxy:
+Refers to a special kind of server that functions as an intermediate link between a client application (like a web browser) and a real server. The proxy server intercepts requests for information from the real server and whenever possible, fills the request. When it is unable to do so, the request is forwarded to the real server. 
+
+
+
+RGB:
+Red, green, and blue; the primary colors that are mixed to display the color of pixels on a computer monitor. Every color of emitted light can be created by combining these three colors in varying levels. 
+
+
+
+RJ-45 connector:
+
+
+An eight-wire connector used for connecting a computer to a local-area network. May also be referred to as an Ethernet connector.
+
+
+
+RTF:
+Rich Text Format; a type of document formatting that enables special characteristics like fonts and margins to be included within an ASCII file. May be used when a document must be shared among users with different kinds of computers (e.g., IBM PC or compatibles and Macintoshes).
+
+
+
+
+TCP/IP:
+Transmission Control Protocol/Internet Protocol; an agreed upon set of rules that tells computers how to exchange information over the Internet. Other Internet protocols like FTP, Gopher, and HTTP sit on top of TCP/IP. 
+
+
+
+Trojan horse:
+A harmless-looking program designed to trick you into thinking it is something you want, but which performs harmful acts when it runs.
+
+
+
+two-factor authentication:
+An extra level of security achieved using a security token device; users have a personal identification number (PIN) that identifies them as the owner of a particular token. The token displays a number which is entered following the PIN number to uniquely identify the owner to a particular network service. The identification number for each user is changed frequently, usually every few minutes.
+
+
+
+USB:
+Universal Serial Bus; a connector on the back of almost any new computer that allows you to quickly and easily attach external devices such as mice, joysticks or flight yokes, printers, scanners, modems, speakers, digital cameras or webcams, or external storage devices. 
+
+
+URL:
+Uniform Resource Locator; a means of identifying resources on the Internet. A full URL consists of three parts: the protocol (e.g., FTP, gopher, http, nntp, telnet); the server name and address; and the item's path.
+
+
+
+VPN:
+Virtual Private Networking; a means of securely accessing resources on a network by connecting to a remote access server through the Internet or other network
+
+
+WAP:
+Wireless Application Protocol; a set of communication protocols for enabling wireless access to the Internet. 
+
+
+
+wild card:
+A special character provided by an operating system or a particular program that is used to identify a group of files or directories with a similar characteristic. Useful if you want to perform the same operation simultaneously on more than one file. Example: the asterisk (*) that can be used in DOS to specify a groups of files such as *.txt. 
+
+
+WLAN:
+Wireless Local Area Network; the computers and devices that make up a wireless network. 
+
