@@ -1,0 +1,50 @@
+Origins of Linux 
+
+
+Ken Thompson and Dennis Ritchie, and a group of other researched continued working with the project’s core principles. 
+
+
+It also MINIX an educational version of the OS, and Linus Torvalds inspiration to develop Linux. 
+
+
+Linus Torvalds a Finnish undergraduate student frustrated with the MINIX OS licensing. Later announced on August 25, 1991 to a MINIX user group that he was developing his own operating system that was similar to MINIX. He initially developed the Linux Kernel using the GNU C compiler on MINIX. This quickly became a unique project, with Torvalds and core set of developers who released version 1.0 of the kernel in 1994. 
+
+
+
+BASH (short for Bourne-Again Shell) shell. 
+
+Please note, depending on the distribution (aka Distro) you could be using another shell (i.e. csh, tcsh, ksh, ash, zsh, etc.) 
+
+
+
+Programs are commonly stored in one of the following paths, /bin , /usr/bin , /sbin , /usr/sbin . 
+
+
+
+
+
+Linux has four types of accounts: root, System, Normal, Network. 
+
+
+
+By default, all permissions (even if you’re signed in as root) start out running under basic user account security (so you can run commands like: ls , cp , rm , etc.). A command that needs elevated permissions, requires that you put the prefix command sudo in front of it (i.e. sudo command -options ). After you press Enter, you will then be required to type your admin password and press Enter again. 
+
+
+
+
+For example, if you type the command ls it will give you basic file information in a directory. If you type the command and option ls -l , it will give you additional information. If you add additional options such as ls -al shows an additional set of files that were not shown earlier. 
+
+
+Example of Linux Tree Structure 
+/ /bin /boot /dev /etc /home /lib 
+
+
+
+
+Updating the system  (Why)
+
+(you should make sure it is up-to-date, by installing the latest libraries, application fixes and security patches. From a security perspective this is very important as it can help keep your system from getting compromised.)
+
+For Debian based distributions, run the following commands (requires root permission): 
+sudo apt-get update sudo apt-get upgrade 
+ 
