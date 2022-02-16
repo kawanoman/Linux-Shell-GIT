@@ -2,7 +2,6 @@ alias:
 A short, easy to remember name created for use in place of a longer, more complicated name; commonly used in e-mail applications. Also referred to as a "nickname". 
 
 
-
 The Filesystem Hierarchy Standard (FHS) defines the directory structure and contents in Linux distributions. This standard is maintained by the Linux Foundation. For more information on FHS, see the following section "Filesystem Hierarchy Standard" 
 
 
