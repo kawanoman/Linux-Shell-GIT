@@ -32,6 +32,8 @@ By default, all permissions (even if you’re signed in as root) start out runni
 
 
 
+
+
 For example, if you type the command ls it will give you basic file information in a directory. If you type the command and option ls -l , it will give you additional information. If you add additional options such as ls -al shows an additional set of files that were not shown earlier. 
 
 
