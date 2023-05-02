@@ -26,7 +26,6 @@ DHCP:
 Dynamic Host Configuration Protocol; a protocol that lets a server on a local network assign temporary IP addresses to a computer or other network devices
 
 
-
 DNS:
 Domain Name System; a service for accessing a networked computer by name rather than by numerical, (IP) address.
 
