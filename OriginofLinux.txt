@@ -10,6 +10,8 @@ It also MINIX an educational version of the OS, and Linus Torvalds inspiration t
 Linus Torvalds a Finnish undergraduate student frustrated with the MINIX OS licensing. Later announced on August 25, 1991 to a MINIX user group that he was developing his own operating system that was similar to MINIX. He initially developed the Linux Kernel using the GNU C compiler on MINIX. This quickly became a unique project, with Torvalds and core set of developers who released version 1.0 of the kernel in 1994. 
 
 
+
+
 BASH (short for Bourne-Again Shell) shell. 
 
 Please note, depending on the distribution (aka Distro) you could be using another shell (i.e. csh, tcsh, ksh, ash, zsh, etc.) 
