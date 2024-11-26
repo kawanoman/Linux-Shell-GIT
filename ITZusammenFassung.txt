@@ -93,6 +93,7 @@ A set of rules that regulate how computers exchange information. Example: error 
 
 
 
+
 proxy:
 Refers to a special kind of server that functions as an intermediate link between a client application (like a web browser) and a real server. The proxy server intercepts requests for information from the real server and whenever possible, fills the request. When it is unable to do so, the request is forwarded to the real server. 
 
